@@ -1,2 +1,7 @@
-# first
-learning github
+welcome to my first github code.
+
+
+java 
+java script
+html
+css
